@@ -5,9 +5,26 @@
     <string name="update_user">Update username</string>
 
     <string name="back">返回</string>
+    <string name="next_step">下一步</string>
+    <string name="finish">完成</string>
+    <string name="confirm">确认</string>
     <string name="one_key_claim">一键闪赔</string>
     <string name="settling">处理中</string>
     <string name="submitted">已提交</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="underlying">标的</string>
+    <string name="photo">照片</string>
+
+
+    <string name="claim_detail">闪赔详情</string>
+    <string name="submit_claim">提交闪赔</string>
+    <string name="basic_info">基本信息</string>
+    <string name="claim_type">赔偿方式</string>
+    <string name="loss_exposure">损失标的</string>
+    <string name="claim_info">赔付信息</string>
+    <string name="image_data">影像资料</string>
+
 
     <!-- Report a case -->
     <string name="report_number">报案号</string>
@@ -21,5 +38,60 @@
     <string name="report_status">受理说明</string>
 
     <string name="insurance_policy">保单信息</string>
+    <string name="insurance_number">保单号</string>
+    <string name="insured">被保险人</string>
+    <string name="underwrite">承保机构</string>
+    <string name="insurance_charge">保费实收</string>
+    <string name="insurance_period">保险期限</string>
+    <string name="insurance_type">险种</string>
 
+
+    <string name="survey_info">查勘信息</string>
+    <string name="surveyor">查勘人</string>
+    <string name="survey_date">查勘日期</string>
+    <string name="survey_reason">出险原因</string>
+    <string name="survey_address">出险地点</string>
+    <string name="survey_address_fine">详细地点</string>
+    <string name="accident_time">出险时间</string>
+    <string name="loss_number">损失数量</string>
+    <string name="loss_worth">费用估损金额</string>
+    <string name="underlying_asset_loss_worth">标的损失金额</string>
+    <string name="death_number">死亡数量</string>
+    <string name="kill_number">扑杀数量</string>
+    <string name="accident_family">出险户次</string>
+    <string name="if_big_accident">是否大灾</string>
+    <string name="delay_report_reason">延迟报案原因</string>
+    <string name="insurance_report">查勘报告</string>
+
+
+    <string name="single_line_input">单行输入</string>
+    <string name="account_for_unit_loss">单行输入</string>
+
+    <string name="add_underlying">添加标的</string>
+    <string name="ear_number">耳号</string>
+    <string name="number_or_weight">数量／重量：</string>
+    <string name="accident_checkout">出险校验</string>
+    <string name="peasant">农户：</string>
+    <string name="id_number">身份证号</string>
+    <string name="accident_checkout_result">校验结果</string>
+
+    <string name="peasant_info">农户信息</string>
+    <string name="peasant_name">姓名</string>
+    <string name="peasant_id_card">身份证</string>
+    <string name="peasant_tel">座机</string>
+    <string name="peasant_phone">手机</string>
+    <string name="underwrite_info">承保信息</string>
+    <string name="insurance_numbers">保险数量</string>
+    <string name="insurance_unit_account">单位保额</string>
+    <string name="loss_assessment">定损信息</string>
+    <string name="fch">免赔率</string>
+    <string name="unit_fch">单位免赔率</string>
+    <string name="claim_account">赔偿金额</string>
+    <string name="pay_info">支付信息</string>
+    <string name="bank_first_name">银行大类名称：</string>
+    <string name="bank_second_name">银行小类名称：</string>
+    <string name="bank_address">开户行明细：</string>
+    <string name="province">省份：</string>
+    <string name="city">城市：</string>
+    <string name="bank_pay_id">银行支付账号：</string>
 </resources>

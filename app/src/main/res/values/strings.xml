@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuickStart</string>
+    <string name="action_settings">Settings</string>
+    <string name="rx_demo">RxSample</string>
+    <string name="update_user">Update username</string>
+
+    <string name="back">返回</string>
+    <string name="one_key_claim">一键闪赔</string>
+    <string name="settling">处理中</string>
+    <string name="submitted">已提交</string>
+
+    <!-- Report a case -->
+    <string name="report_number">报案号</string>
+    <string name="reporter">报案人</string>
+    <string name="report_phone">报案电话</string>
+    <string name="report_address">出险地址</string>
+    <string name="claim">闪赔</string>
+
+    <string name="report_time">报案时间</string>
+    <string name="report_amount">报损金额</string>
+    <string name="report_status">受理说明</string>
+
+    <string name="insurance_policy">保单信息</string>
+
+</resources>

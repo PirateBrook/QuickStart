@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B3B3B3</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#B3B3B3</color>
+
+    <!-- Text Color -->
+    <color name="color_text_yellow">#F15922</color>
+    <color name="color_text_black">#101010</color>
+    <color name="color_text_yellow_light">#FF9800</color>
+    <color name="color_text_grey">#FF888888</color>
+
+    <!-- Widget Color -->
+    <color name="color_widget_yellow_light">#FF9800</color>
+
+    <!-- Edit Widget Overlay Color -->
+    <color name="color_edit_grey_overlay">#BBBBBB</color>
+    <color name="color_edit_light_overlay">#FFE5E5E5</color>
+
+    <!-- View Border Color -->
+    <color name="color_widget_border">#FFBBBBBB</color>
+</resources>
